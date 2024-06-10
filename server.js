@@ -1,3 +1,3 @@
-const fun = (a, b) => a+b;
+const sum = (a, b) => a+b;
 
-console.log(fun(10,5));
+console.log(sum(10,5));
